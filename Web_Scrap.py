@@ -1,6 +1,7 @@
 '''
 Author : Keerthi
 Id : N151119
+Code : Scraping nearly 9000 student images from the college website
 '''
 import requests
 file = open("users.txt","r+")#reading data from files
